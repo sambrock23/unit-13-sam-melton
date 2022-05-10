@@ -1,0 +1,11 @@
+| name     | hyperlink                                                                                                                                              | Copyright |
+|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+| Text     | I am going to write this myself                                                                                                                        | No        |
+| Phone 1  | https://helios-i.mashable.com/imagery/reviews/074lTlwrLLcH7SVYrBFC2mU/hero-image.fill.size_1248x702.v1645211431.jpg (samsung galaxy s22)               | Yes       |
+| Phone 2  | https://www.knowyourmobile.com/wp-content/uploads/2020/10/iPhone-12.jpg                                                                                | Yes       |
+| Phone 3  | https://www.apple.com/newsroom/images/product/iphone/standard/iPhone8Plus_and_iPhone8_front_inline.jpg.large.jpg                                       | Yes       |
+| Phone 4  | https://img.giznext.com/assets/model/2/5766/apple-mobiles-apple-iphone-13-pro-max-0-1633948888.jpg                                                     | Yes       |
+| Phone 5  | https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-og-202104?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1617339367000              | Yes       |
+| Phone 6  | https://images.ctfassets.net/wcfotm6rrl7u/vvSc7YrV8mtIezVCmEQTa/666a8a3818c7cd631a779bfd0b89aadb/nokia-5_4-dusk-front_back-int.png?h=600&fm=avif       | Yes       |
+| Phone 7  | https://www.buymobiles.net/files/images/handsets/samsung/23_galaxyzflip3_5g_phantomblack_l30_table_top_l2.png                                          | Yes       |
+| Phone 8  | https://www.three.co.uk/cs/Satellite?blobkey=id&blobwhere=1401206418913&blobcol=urldata&                                                               | Yes       |blobtable=MungoBlobs                                                                                                                                                
